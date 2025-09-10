@@ -3,3 +3,5 @@
 __pycache__/
 config.py
 secrets.txt
+token.txt
+*.log
